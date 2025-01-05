@@ -2,9 +2,7 @@
 
 ## Tasks:
 
-Using  Python skills, determine which image classification algorithm works the "best" on classifying images as "dogs" or "not dogs".
-
-Determined how well the "best" classification algorithm works on correctly identifying a dog's breed. If you are confused by the term image classifier look at it simply as a tool that has an input and an output. The Input is an image. The output determines what the image depicts. (for example, a dog). Be mindful of the fact that image classifiers do not always categorize the images correctly.
+Using  Python skills, we determined which image classification algorithm works the "best" on classifying images as "dogs" or "not dogs". The Input is an image. The output determines what the image depicts. (for example, a dog). Be mindful of the fact that image classifiers do not always categorize the images correctly.
 
 Timed how long each algorithm takes to solve the classification problem. With computational tasks, there is often a trade-off between accuracy and runtime. The more accurate an algorithm, the higher the likelihood that it will take more time to run and use more computational resources to run.
 
